@@ -31,6 +31,7 @@ print(var)
 
 print(var(2))
 
+c = 8
 
 class Some():
     def __init__(self): 
